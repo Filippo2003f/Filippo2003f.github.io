@@ -1,0 +1,41 @@
+<<<<<<< HEAD
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+}
+:root {
+    --primary-color: #3498db;
+    --secondary-color: #2ecc71;
+    --background-color: #f4f4f4;
+    --text-color: #333;
+}
+
+body {
+    background-color: var(--background-color);
+}
+
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--secondary-color);
+}
+=======
+
+>>>>>>> 7446ee89c51fba45f749ff5cc293f0ef02e9f18d
